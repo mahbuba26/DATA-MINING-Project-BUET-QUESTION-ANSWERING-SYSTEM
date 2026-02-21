@@ -215,6 +215,3 @@ python src/train_gnn.py
 
 ---
 
-I can also make a **shorter, badge-friendly GitHub version** with **installation instructions, badges, and example output** if you want it ready to paste directly.
-
-Do you want me to do that too?
