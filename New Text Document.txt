@@ -1,0 +1,20 @@
+..........................
+Extract through base. ipynb first of all
+Novish 2 holo 1st try of info extract
+..........................
+
+1. Keyword_extract.ipynb te keyword from QA
+2. Concept_net theke embedding, ar embedding file ta download
+3. Conceptnet theke related info extract
+info extraction.ipynb
+info extraction part 2. ipynb - better try kora
+4. Graph related
+qa edge embedding save, graph edge clear,
+
+
+
+
+
+........................................
+Cyber preprocess e pi ase cyberbullying er
+.........................................
